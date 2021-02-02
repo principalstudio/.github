@@ -1,0 +1,5 @@
+{
+  "name": "Update Release Notes",
+  "description": "Script to update GitHub release and CHANGELOG.md file with release notes obtained via [github-release-notes](https://github.com/github-tools/github-release-notes)",
+  "iconName": "p-icon"
+}
